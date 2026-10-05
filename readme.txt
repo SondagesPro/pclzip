@@ -27,6 +27,8 @@
 
   Full documentation about PclZip can be found here : http://www.phpconcept.net/pclzip
 
+  This versionwas updated for LimeSurvey-SondagesPro
+
 2 - What's new
 ==============
 
